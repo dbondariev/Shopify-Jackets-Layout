@@ -1,6 +1,6 @@
 # price-tables
 
-### [Site link](https://dbondariev.github.io/fundation_project/)
+### [Site link](https://dbondariev.github.io/Shopify-Jackets-Layout/)
 
 Static non responsive page
 
